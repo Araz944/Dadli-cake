@@ -1,0 +1,186 @@
+@media only screen and (min-width: 640px) and (max-width: 667px) and (orientation: landscape) {
+  .logoTransparent {
+    height: 150px;
+    width: 330px;
+    top: 16%;
+    border: 12px solid #0fddea96;
+  }
+  .scrollBg {
+    height: 360px;
+    padding: 20px 20px;
+    margin-top: -500px;
+  }
+  .bg3 {
+    height: 640px;
+  }
+  .menuContainer img {
+    width: 50px;
+  }
+  .menuWord {
+    font-size: 31px;
+  }
+  .flexMenuContainer {
+    flex-wrap: nowrap;
+  }
+  .flexItems {
+    padding: 0 3%;
+  }
+  .flexItems h1 {
+    font-size: 28px;
+    text-align: center;
+  }
+  .flexItems h2 {
+    font-size: 18px;
+    text-align: center;
+    margin: 3px 0 5px 0;
+  }
+  .flexItems p {
+    font-size: 13px;
+    letter-spacing: 0px;
+    text-align: justify;
+    margin-bottom: 12px;
+  }
+  .typeSection {
+    top: 18%;
+    left: 6%;
+    min-height: 200px;
+    width: 300px;
+  }
+  .typing {
+    width: 300px;
+  }
+  .typing h3 {
+    display: block;
+    margin: 0 auto 11px auto;
+    padding: 0;
+    position: relative;
+    right: 6%;
+    font-size: 26px;
+    width: 220px;
+    -webkit-text-stroke: 1.5px #b0ec22;
+  }
+  .typing p {
+    padding: 0;
+    display: block;
+    margin: 0 auto 12px auto;
+    width: 240px;
+    position: relative;
+    right: 6%;
+    font-size: 12px;
+    -webkit-text-stroke: 0.5px #2c2c2c;
+  }
+  #imageHolder {
+    top: -4.2%;
+    left: 61%;
+    height: 200px;
+    width: 200px;
+  }
+  .slide {
+    left: 61%;
+  }
+  .slideImage1 {
+    height: 200px;
+    width: 200px;
+    top: -26.3%;
+    background-position: 0 -65px;
+  }
+  .slideImage2 {
+    height: 200px;
+    width: 200px;
+    top: -48.8%;
+    background-position: 0 -50px;
+  }
+  .slideImage3 {
+    height: 200px;
+    width: 200px;
+    top: -70.9%;
+    background-position: -43px 0;
+  }
+  .recentlyContainer {
+    left: 38%;
+    top: 8%;
+    margin-bottom: 0;
+  }
+  .recentlyContainer img {
+    width: 50px;
+  }
+  .recentlyWord {
+    font-size: 31px;
+  }
+  .flexRecentlyContainer {
+    flex-direction: row;
+    flex-wrap: nowrap;
+  }
+  .flexImagesLink {
+    margin: 3% 4%;
+    border: 2px solid #973cdf;
+  }
+  .flexImagesLink div {
+    height: 152px;
+    width: 152px;
+  }
+  .fadeInTitleSection {
+    -webkit-text-stroke: 0.8px #b0ec22;
+    font-size: 18px;
+    transform: translateY(10vh);
+  }
+  .gridServicesContainer {
+    grid-template-columns: 1fr 1fr;
+    top: 28%;
+    padding: 0 6.5%;
+  }
+  .gridServicesContainer div {
+    padding: 14px;
+  }
+  .gridServicesContainer div img {
+    width: 30px;
+  }
+  .gridServicesContainer h3 {
+    margin: 6px 0 7px 0;
+    font-size: 15px;
+  }
+  .gridServicesContainer p {
+    letter-spacing: 0.7px;
+    font-size: 12px;
+  }
+  .contactsContainer {
+    left: 18%;
+    top: 18%;
+  }
+  .contactsWord {
+    font-size: 32px;
+    letter-spacing: 3px;
+    margin-bottom: 30px;
+  }
+  .flexContactsContainer {
+    width: 450px;
+  }
+  .firstSpan {
+    width: 130px;
+  }
+  .firstSpan p {
+    font-size: 20px;
+    margin: 9px 0;
+    padding: 0;
+  }
+  .secondSpan {
+    width: 120px;
+  }
+  .secondSpan div {
+    height: 25px;
+    width: 25px;
+    margin: auto;
+  }
+  .thirdSpan {
+    width: 180px;
+  }
+  .thirdSpan a {
+    font-size: 16px;
+    margin: 7px 0 7px 30px;
+  }
+  .copyright {
+    top: 343px;
+    font-size: 12px;
+    letter-spacing: 1.8px;
+  }
+}

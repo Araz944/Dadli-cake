@@ -1,0 +1,395 @@
+[
+  {
+    "id": 97,
+    "date": "22.05.2021",
+    "title": "Creamy Strawberry Summer Cake",
+    "slug": "creamy-strawberry-summer-cake",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "url": "/gallery-images/creamy-strawberry-summer-cake.jpg"
+  },
+  {
+    "id": 96,
+    "date": "18.05.2021",
+    "title": "Creamy Berry Cake",
+    "slug": "creamy-berry-cake",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "url": "/gallery-images/creamy-berry-cake.jpg"
+  },
+  {
+    "id": 95,
+    "date": "17.05.2021",
+    "title": "Birthday Cake with Roses",
+    "slug": "birthday-cake-with-roses",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "url": "/gallery-images/birthday-cake-with-roses.jpg"
+  },
+  {
+    "id": 94,
+    "date": "16.05.2021",
+    "title": "Birthday Cake",
+    "slug": "birthday-cake-khazar",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "url": "/gallery-images/birthday-cake-khazar.jpg"
+  },
+  {
+    "id": 93,
+    "date": "07.05.2021",
+    "title": "White Chocolate Strawberry Cake",
+    "slug": "white-chocolate-strawberry-cake",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "url": "/gallery-images/white-chocolate-strawberry-cake.jpg"
+  },
+  {
+    "id": 92,
+    "date": "25.04.2021",
+    "title": "Cookie Cake",
+    "slug": "cookie-cake",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "url": "/gallery-images/cookie-cake.jpg",
+    "discount": "-15%"
+  },
+  {
+    "id": 91,
+    "date": "11.04.2021",
+    "title": "Walnut & Chocolate Biscuit Cake",
+    "slug": "walnut-and-chocolate-biscuit-cake",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "url": "/gallery-images/walnut-and-chocolate-biscuit-cake.jpg"
+  },
+  {
+    "id": 90,
+    "date": "05.04.2021",
+    "title": "Birthday Cake",
+    "slug": "birthday-cake-yeraz-666",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "url": "/gallery-images/birthday-cake-yeraz-666.jpg"
+  },
+  {
+    "id": 89,
+    "date": "03.04.2021",
+    "title": "Small Princesses Cupcakes",
+    "slug": "small-princesses-cupcake",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "url": "/gallery-images/small-princesses-cupcake.jpg",
+    "discount": "-10%"
+  },
+  {
+    "id": 88,
+    "date": "25.03.2021",
+    "title": "Brawl Stars Cake",
+    "slug": "brawl-stars-cake",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "url": "/gallery-images/brawl-stars-cake.jpg"
+  },
+  {
+    "id": 87,
+    "date": "23.03.2021",
+    "title": "Pavlova Cake",
+    "slug": "pavlova-cake",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "url": "/gallery-images/pavlova-cake.jpg"
+  },
+  {
+    "id": 86,
+    "date": "21.03.2021",
+    "title": "Mimosa Salad",
+    "slug": "mimosa-salad",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "url": "/gallery-images/mimosa-salad.jpg"
+  },
+  {
+    "id": 85,
+    "date": "18.03.2021",
+    "title": "Peach Sweets",
+    "slug": "peach-sweets",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "url": "/gallery-images/peach-sweets.jpg"
+  },
+  {
+    "id": 84,
+    "date": "18.03.2021",
+    "title": "National Sweets",
+    "slug": "national-sweets",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "url": "/gallery-images/national-sweets.jpg"
+  },
+  {
+    "id": 83,
+    "date": "15.03.2021",
+    "title": "Shakarbura & Pakhlava",
+    "slug": "shakarbura-and-pakhlava",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "url": "/gallery-images/shakarbura-and-pakhlava.jpg"
+  },
+  {
+    "id": 82,
+    "date": "13.03.2021",
+    "title": "Chudu",
+    "slug": "chudu",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "url": "/gallery-images/chudu.jpg"
+  },
+  {
+    "id": 81,
+    "date": "13.03.2021",
+    "title": "Small Pizzas",
+    "slug": "small-pizzas",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "url": "/gallery-images/small-pizzas.jpg"
+  },
+  {
+    "id": 80,
+    "date": "12.03.2021",
+    "title": "Shakarbura",
+    "slug": "shakarbura",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "url": "/gallery-images/shakarbura.jpg"
+  },
+  {
+    "id": 79,
+    "date": "06.03.2021",
+    "title": "Banana Brownies",
+    "slug": "banana-brownies",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "url": "/gallery-images/banana-brownies.jpg",
+    "discount": "-15%"
+  },
+  {
+    "id": 78,
+    "date": "01.03.2021",
+    "title": "Profiterole",
+    "slug": "profiterole",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "url": "/gallery-images/profiterole.jpg"
+  },
+  {
+    "id": 77,
+    "date": "01.03.2021",
+    "title": "Fruitful Eclairs",
+    "slug": "fruitful-eclairs",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "url": "/gallery-images/fruitful-eclairs.jpg",
+    "discount": "-10%"
+  },
+  {
+    "id": 76,
+    "date": "22.02.2021",
+    "title": "Algerian Sweets El Djouza",
+    "slug": "algerian-sweets-el-djouza",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "url": "/gallery-images/algerian-sweets-el-djouza.jpg",
+    "discount": "-10%"
+  },
+  {
+    "id": 75,
+    "date": "21.02.2021",
+    "title": "Creamy Eclairs",
+    "slug": "creamy-eclairs",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "url": "/gallery-images/creamy-eclairs.jpg"
+  },
+  {
+    "id": 74,
+    "date": "18.02.2021",
+    "title": "Shakarbura",
+    "slug": "shakarbura-01",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "url": "/gallery-images/shakarbura-01.jpg"
+  },
+  {
+    "id": 73,
+    "date": "14.02.2021",
+    "title": "Creamy Cookie Cake",
+    "slug": "creamy-cookie-cake",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "url": "/gallery-images/creamy-cookie-cake.jpg"
+  },
+  {
+    "id": 72,
+    "date": "08.02.2021",
+    "title": "Cocoa Cherry Pie",
+    "slug": "cocoa-cherry-pie",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "url": "/gallery-images/cocoa-cherry-pie.jpg",
+    "discount": "-15%"
+  },
+  {
+    "id": 71,
+    "date": "06.02.2021",
+    "title": "Desserts",
+    "slug": "desserts",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "url": "/gallery-images/desserts.jpg"
+  },
+  {
+    "id": 70,
+    "date": "05.02.2021",
+    "title": "Masha & Bear Birthday Cake",
+    "slug": "masha-and-bear-birthday-cake",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "url": "/gallery-images/masha-and-bear-birthday-cake.jpg"
+  },
+  {
+    "id": 69,
+    "date": "01.02.2021",
+    "title": "Marzipan Cake",
+    "slug": "marzipan-cake",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "url": "/gallery-images/marzipan-cake.jpg"
+  },
+  {
+    "id": 68,
+    "date": "31.01.2021",
+    "title": "\"A\" Letter Cake",
+    "slug": "a-letter-cake",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "url": "/gallery-images/a-letter-cake.jpg"
+  },
+  {
+    "id": 67,
+    "date": "31.01.2021",
+    "title": "Cupcakes",
+    "slug": "cupcakes",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "url": "/gallery-images/cupcakes.jpg"
+  },
+  {
+    "id": 66,
+    "date": "29.01.2021",
+    "title": "Rolled Baklava",
+    "slug": "rolled-baklava",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "url": "/gallery-images/rolled-baklava.jpg"
+  },
+  {
+    "id": 65,
+    "date": "27.01.2021",
+    "title": "Creamy Chocolate Cake",
+    "slug": "creamy-chocolate-cake",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "url": "/gallery-images/creamy-chocolate-cake.jpg"
+  },
+  {
+    "id": 64,
+    "date": "21.01.2021",
+    "title": "Colorful Roses Cake",
+    "slug": "colorful-roses-cake",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "url": "/gallery-images/colorful-roses-cake.jpg"
+  },
+  {
+    "id": 63,
+    "date": "19.01.2021",
+    "title": "New Born Baby Cake",
+    "slug": "new-born-baby-cake",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "url": "/gallery-images/new-born-baby-cake.jpg"
+  },
+  {
+    "id": 62,
+    "date": "18.01.2021",
+    "title": "Creamy Chocolate Biscuit",
+    "slug": "creamy-chocolate-biscuit",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "url": "/gallery-images/creamy-chocolate-biscuit.jpg"
+  },
+  {
+    "id": 61,
+    "date": "14.01.2021",
+    "title": "Walnut & Cocoa Bun",
+    "slug": "walnut-and-cocoa-bun",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "url": "/gallery-images/walnut-and-cocoa-bun.jpg",
+    "discount": "-15%"
+  },
+  {
+    "id": 60,
+    "date": "14.01.2021",
+    "title": "Cheesy Pizza Roses",
+    "slug": "cheesy-pizza-roses",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "url": "/gallery-images/cheesy-pizza-roses.jpg",
+    "discount": "-10%"
+  },
+  {
+    "id": 59,
+    "date": "12.01.2021",
+    "title": "Cheese Loaf Bread",
+    "slug": "cheese-loaf-bread",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "url": "/gallery-images/cheese-loaf-bread.jpg"
+  },
+  {
+    "id": 58,
+    "date": "06.01.2021",
+    "title": "Mutaki",
+    "slug": "mutaki",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "url": "/gallery-images/mutaki.jpg"
+  },
+  {
+    "id": 57,
+    "date": "01.01.2021",
+    "title": "Puff Pastry Roses",
+    "slug": "puff-pastry-roses",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "url": "/gallery-images/puff-pastry-roses.jpg",
+    "discount": "-10%"
+  },
+  {
+    "id": 56,
+    "date": "29.12.2020",
+    "title": "War Veteran Cake",
+    "slug": "war-veteran-cake",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "url": "/gallery-images/war-veteran-cake.jpg"
+  },
+  {
+    "id": 55,
+    "date": "28.12.2020",
+    "title": "Croissants",
+    "slug": "croissants",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "url": "/gallery-images/croissants.jpg"
+  },
+  {
+    "id": 54,
+    "date": "27.12.2020",
+    "title": "Honey Cake",
+    "slug": "honey-cake",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "url": "/gallery-images/honey-cake.jpg"
+  },
+  {
+    "id": 53,
+    "date": "23.12.2020",
+    "title": "Pakhlava Sochi-Style",
+    "slug": "pakhlava-sochi-style",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "url": "/gallery-images/pakhlava-sochi-style.jpg"
+  },
+  {
+    "id": 52,
+    "date": "22.12.2020",
+    "title": "Apple Pie",
+    "slug": "apple-pie",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "url": "/gallery-images/apple-pie.jpg"
+  },
+  {
+    "id": 51,
+    "date": "16.12.2020",
+    "title": "Hazelnut Cookies",
+    "slug": "hazelnut-cookies",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "url": "/gallery-images/hazelnut-cookies.jpg"
+  },
+  {
+    "id": 50,
+    "date": "03.12.2020",
+    "title": "Tasty Cookies",
+    "slug": "tasty-cookies",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "url": "/gallery-images/tasty-cookies.jpg"
+  }
+]
